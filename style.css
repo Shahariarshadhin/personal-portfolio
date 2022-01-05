@@ -1,0 +1,156 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.initial-area {
+    margin-top: 150px;
+    margin-left: 150px;
+    display: flex;
+}
+
+h1 {
+    font-size: 60px;
+    margin-left: 20px;
+    font-weight: 700;
+}
+
+.header {
+    border-left: 5px solid red;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.initial-area img {
+    width: 50%;
+    margin-left: 140px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+
+.initial-area p {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.orange-text {
+    color: orange;
+}
+
+#middle-header {
+    text-align: center;
+}
+
+.middle-area {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.mission {
+    background-color: rgb(225, 237, 243);
+    width: 30%;
+    margin-left: 150px;
+    margin-right: 10px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.vission {
+    background-color: rgb(255, 236, 239);
+    width: 30%;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.goals {
+    background-color: rgb(245, 237, 227);
+    width: 30%;
+    margin-left: 10px;
+    margin-right: 150px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.middle-area img {
+    width: 30%;
+}
+
+.third-area {
+    display: flex;
+    margin-right: 250px;
+    margin-bottom: 150px;
+    background-image: url(images/shapes/shape-1.png);
+    background-position: 40px;
+    background-size: 15%;
+    background-repeat: no-repeat;
+}
+
+.third-area img {
+    width: 70%;
+    margin-left: 150px;
+}
+
+.third-width {
+    width: 45%;
+}
+
+.third-width2 {
+    width: 60%;
+}
+
+.third-area p {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.final-area {
+    display: flex;
+    margin-left: 150px;
+    margin-bottom: 150px;
+    background-image: url(images/shapes/shape-1.png);
+    background-position: right 100px top 400px;
+    background-size: 15%;
+    background-repeat: no-repeat;
+}
+
+.final-area img {
+    width: 70%;
+    margin-right: 200px;
+}
+
+.final-area p {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.extra-area {
+    display: flex;
+    margin-bottom: 150px;
+    background-image: url(images/shapes/shape-6.png);
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position: 50px top;
+}
+
+.extra-area img {
+    width: 70%;
+    margin-left: 150px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 30px;
+}
